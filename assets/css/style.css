@@ -1,0 +1,14 @@
+
+/* assets/css/style.css - custom styles for Bí Mật Clip AI v3 */
+body { font-family: 'Poppins', sans-serif; background: #f9f9f9; }
+header { background: linear-gradient(90deg, #007bff, #00c6ff); color: #fff; padding: 40px 20px; text-align: center; }
+header h1 { font-size: 2.5rem; font-weight: bold; }
+.hero { padding: 60px 20px; text-align: center; }
+.hero h2 { font-size: 2rem; margin-bottom: 20px; }
+.hero .btn { padding: 12px 30px; font-size: 1.2rem; }
+.section { padding: 60px 20px; }
+.section h2 { text-align: center; margin-bottom: 40px; font-weight: bold; }
+.card { border: none; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.2s; }
+.card:hover { transform: translateY(-5px); }
+footer { background: #222; color: #fff; padding: 40px 20px; text-align: center; margin-top: 40px; }
+footer a { color: #fff; margin: 0 10px; }
